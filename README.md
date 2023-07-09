@@ -1,6 +1,5 @@
 # FastApi-Task
-1.API to List all available products in the system. create some 10-20 dummy products like TV, laptop, etc for reference. Each product should have these attributes -
-a.Product name
+1.API to List all available products in the system. create some 10-20 dummy products like TV, laptop, etc for reference. Each product should have these attributes a.Product name
 b.Product price
 c.Product available quantity
 2.API to Create a new order. Each order should have these properties - 
